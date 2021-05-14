@@ -1,0 +1,47 @@
+:root {
+    --cortitulo: rgb(104, 0, 0);
+    --cortexto: rgb(155, 0, 0);
+}
+
+html body figure figcaption {
+    display: none;
+}
+
+body header div div {
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+
+body header div figure img {
+    padding-left: 137px;
+}
+
+body header div div section div div img {
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+html {
+    background-color: black;
+}
+
+p {
+    color: var(--cortexto)
+}
+
+h1 {
+    color: var(--cortitulo)
+}
+
+h2 {
+    color: var(--cortitulo)
+}
+
+strong {
+    color: var(--cortitulo)
+}
+
+a {
+    color: var(--cortitulo)
+}
